@@ -1,10 +1,14 @@
 # ProBot
 Chatting Assistant of procurement data
-Objective:
+
+### Objective:
+
 Developing a prototype of a chatting assistant capable of answering queries related
 to procurement data. The assistant should be able to interact with users, retrieve information
 from the dataset, and provide relevant answers to their inquiries.
-Dataset:
+
+## Dataset:
+
 The dataset provided contains information on large purchases made by the State of California.
 You must use this dataset to train your model and build the chatting assistant. You can
 access the dataset here.
@@ -13,7 +17,7 @@ https://www.kaggle.com/datasets/sohier/large-purchases-by-the-state-of-ca/data
 
 ![dataset-cover](https://github.com/user-attachments/assets/7482048c-036f-4c7d-84b8-34da5d929994)
 
-# Task Description:
+## Task Description:
 
 1. Data Exploration:
 
